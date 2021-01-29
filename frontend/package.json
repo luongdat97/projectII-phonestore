@@ -1,0 +1,43 @@
+{
+  "name": "dsd-20201",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "antd": "^4.6.6",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.3",
+    "chart.js": "^2.9.4",
+    "cookie": "^0.4.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "node-sass": "^4.12.0",
+    "react": "16.9.0",
+    "react-bootstrap": "^1.4.0",
+    "react-chartjs-2": "^2.11.1",
+    "react-cookie": "^4.0.3",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.2",
+    "react-responsive-carousel": "^3.2.11",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1",
+    "redux": "^4.0.5",
+    "styled-components": "^5.1.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
